@@ -2,5 +2,5 @@
 layout: slide
 title: "welcome to our second slide!"
 ---
-Your text
+:smile: :blush: :smiley: :wink: :innocent:
 Use the left arrow to go back
